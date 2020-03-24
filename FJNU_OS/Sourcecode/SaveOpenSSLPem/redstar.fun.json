@@ -1,0 +1,5 @@
+{
+	"domain": "redstar.fun",
+	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03434e2fac4f99506bbae14bbd521d00a934",
+	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03434e2fac4f99506bbae14bbd521d00a934"
+}
